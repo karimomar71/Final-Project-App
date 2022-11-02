@@ -24,7 +24,7 @@ spec:
     }
   }
   environment {
-    CLOUDSDK_CORE_PROJECT='mostafa-ashour-project'
+    CLOUDSDK_CORE_PROJECT='	final-project-367201'
     CLIENT_EMAIL='617264022682-compute@developer.gserviceaccount.com'
   }
   stages {
