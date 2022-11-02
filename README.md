@@ -5,9 +5,9 @@ using Docker, terrafrom , GCP , Helm , Kubernetes and jenkins
 Deploy a nodejs web application on GKE by CI/CD Pipeline. 
 
 #
-### First Part: [ Infrastructure Repository ](https://https://github.com/karimomar71/Nodejs_App)
+### [ Infrastructure Repository ](https://https://github.com/karimomar71/Nodejs_App)
 - apply infrastructure with [Terraform ](https://github.com/karimomar71/Nodejs_App/tree/main/terraform) in GCp 
-- Instaling jenkins in cluster with  [helm](https://github.com/karimomar71/Final-Project-App/blob/main/Dockerfile)  
+- Instaling jenkins in cluster with  [helm](https://github.com/karimomar71/Final-Project-App/blob/main/k8s/README.md)  
 
 ### second part:
 - dockerize NodeJS application
@@ -17,7 +17,7 @@ Deploy a nodejs web application on GKE by CI/CD Pipeline.
 - Create a webhook to apply dynamic changes
 
 # dockerize my app 
-- [ Dockerfile ](https://github.com/mostafaashour99/Final-Project-app/blob/main/Dockerfile) 
+- [ Dockerfile ](https://github.com/karimomar71/Final-Project-App/blob/main/Dockerfile) 
 
 # Add Credentials in Jenkins
  - github Credentials
