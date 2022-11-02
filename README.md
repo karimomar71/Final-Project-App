@@ -2,18 +2,15 @@
 
  <img  src="Requirments.jfif">
 
-# Final Project
+# ITI DevOps Track Final Project
 
-Using Docker, terrafrom , GCP , Helm , Kubernetes and jenkins 
+Using Docker, terrafrom , GCP , Helm , Kubernetes and jenkins to Deploy a nodejs web application on GKE by CI/CD Pipeline. 
 
-Deploy a nodejs web application on GKE by CI/CD Pipeline. 
-
-#
 ### [ Infrastructure Repository ](https://https://github.com/karimomar71/Nodejs_App)
 - apply infrastructure with [Terraform ](https://github.com/karimomar71/Nodejs_App/tree/main/terraform) in GCp 
 - Instaling jenkins in cluster with  [helm](https://github.com/karimomar71/Final-Project-App/blob/main/k8s/README.md)  
 
-### second part:
+### Steps are as following:
 - dockerize NodeJS application
 - configure Credentials in Jenkins
 - create CI pipeline with Jenkins
