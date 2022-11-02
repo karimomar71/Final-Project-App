@@ -5,13 +5,13 @@ metadata:
 spec:
   selector:
     matchLabels:
-      name: nodjs-pod
-      app: nodjs-demo-app
+      name: nodejs-pod
+      app: nodejs-demo-app
   template:
     metadata:
       labels:
-        name: nodjs-pod
-        app: nodjs-demo-app
+        name: nodejs-pod
+        app: nodejs-demo-app
     spec:
       containers:
       - name: myapp

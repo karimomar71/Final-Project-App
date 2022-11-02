@@ -7,9 +7,8 @@ metadata:
 spec:
   type: LoadBalancer
   selector:
-    name: nodejs-pod
-    app: nodejs-demo-app
+    name: nodjs-pod
+    app: nodjs-demo-app
   ports:
   - port: 80
     targetPort: 80
-    protocol: TCP
