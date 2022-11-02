@@ -1,4 +1,4 @@
-### Project requirments:
+# Project requirments:
 
  <img  src="Requirments.jfif">
 
@@ -23,7 +23,7 @@ Deploy a nodejs web application on GKE by CI/CD Pipeline.
 # dockerize my app 
 - [ Dockerfile ](https://github.com/karimomar71/Final-Project-App/blob/main/Dockerfile) 
 
-### Create Jenkins Pipelines
+# Create Jenkins Pipelines
 
  <img  src="Jenkins/Pipeline.jfif">
 
