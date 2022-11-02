@@ -1,6 +1,10 @@
+###Project requirments:
+
+ <img  src="Requirments.jfif">
+
 # Final Project
 
-using Docker, terrafrom , GCP , Helm , Kubernetes and jenkins 
+Using Docker, terrafrom , GCP , Helm , Kubernetes and jenkins 
 
 Deploy a nodejs web application on GKE by CI/CD Pipeline. 
 
@@ -18,6 +22,10 @@ Deploy a nodejs web application on GKE by CI/CD Pipeline.
 
 # dockerize my app 
 - [ Dockerfile ](https://github.com/karimomar71/Final-Project-App/blob/main/Dockerfile) 
+
+### Create Jenkins Pipelines
+
+ <img  src="Jenkins/Pipeline.jfif">
 
 # Add Credentials in Jenkins
  - github Credentials
