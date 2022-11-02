@@ -18,4 +18,4 @@ spec:
         image: karimomar71/node-app:latest
         resources:
         ports:
-        - containerPort: 80     
+        - containerPort: 3000     
